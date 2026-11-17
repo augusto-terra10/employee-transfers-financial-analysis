@@ -23,9 +23,3 @@ The Power BI model has the following relationships:
 |---|---:|---:|
 | Form | 1,414 | 35 |
 | FBT Table | 36 | 9 |
-
-The two Excel source tables share 34 distinct Employee IDs. This overlap does not, by itself, establish the correct relationship grain. The exact matching column(s) should be recorded from Model view.
-
-6. Whether the date relationship is active and how date filters affect report measures.
-
-Cardinality and filter direction above reflect the report author's description of the model. The exact join column(s), date relationship details and measure behaviour still need validation in the PBIX semantic model.
