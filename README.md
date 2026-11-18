@@ -7,8 +7,6 @@ A Power BI portfolio project exploring employee transfers, travel-related allowa
 
 ## Dashboard preview
 
-## Dashboard preview
-
 ![Employee Transfer & Financial Analysis](Screenshots/Employee%20Transfer%20%26%20Financial%20Analysis.png)
 
 ![Employee Transfer & Financial Analysis – Detailed Report](Screenshots/Employee%20Transfer%20%26%20Financial%20Analysis_Detailed%20Report.png)
