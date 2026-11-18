@@ -14,6 +14,8 @@ A two-page Power BI portfolio project analysing employee transfer activity, allo
 
 The sources share 34 distinct Employee IDs. This overlap does not by itself establish the correct relationship or data grain.
 
+**Data Disclaimer:** All data contained in this dataset is entirely synthetic (mock data) and has been created solely for demonstration, testing, and analytical purposes. It does not represent real employees, employee records, or actual business transactions. No real personal or organisational information is included.
+
 ## Tools
 - Microsoft Power BI
 - Microsoft Excel
@@ -27,10 +29,4 @@ employee-transfers-financial-analysis/
 ├── data/
 ├── screenshots/
 └── documentation/
-```
 
-## Public-sharing checklist
-Before making this repository public, verify that IDs, free-text answers, locations, financial values and embedded report assets are synthetic or explicitly approved for public release. Inspect hidden pages, tooltips, filters and metadata. Do not include real employee or company confidential information.
-
-## Technical documentation
-See `documentation/data-model.md` and `documentation/measures-catalog.md`. The model includes a many-to-many relationship between `Form` and `FBT Table`, with single-direction filtering from `Form` to `FBT Table`, plus a one-to-many relationship from `Date table` to `Form`. The current recommendation is to retain the single-direction filter unless a tested report requirement calls for reverse filtering. See `documentation/data-model.md` for the rationale and remaining validation items.
