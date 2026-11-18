@@ -53,7 +53,7 @@ The Power BI model includes the following tables:
 
 The model uses a many-to-many relationship between `Form` and `FBT Table`, with single-direction cross-filtering from `Form` to `FBT Table`. The `Date table` is connected to `Form` through a one-to-many relationship.
 
-See [Data model documentation](documentation/data-model.md) for further details and modelling considerations.
+See [Data model documentation](Documentation/data-model.md) for further details and modelling considerations.
 
 ## Example analysis
 
