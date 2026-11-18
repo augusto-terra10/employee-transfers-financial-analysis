@@ -4,5 +4,4 @@
 
 - `Form`: 1,414 transfer form records, 35 fields
 - `FBT Table`: 36 summary records, 9 fields
-- `Data Dictionary`: field inventory and sample values
 - `Data Quality`: descriptive checks
