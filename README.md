@@ -7,9 +7,9 @@ A Power BI portfolio project exploring employee transfers, travel-related allowa
 
 ## Dashboard preview
 
-![Employee Transfer & Financial Analysis](Screenshots/Employee%20Transfer%20%26%20Financial%20Analysis.png)
+![Employee Transfer & Financial Analysis](screenshots/Employee%20Transfer%20%26%20Financial%20Analysis.png)
 
-![Employee Transfer & Financial Analysis – Detailed Report](Screenshots/Employee%20Transfer%20%26%20Financial%20Analysis_Detailed%20Report.png)
+![Employee Transfer & Financial Analysis – Detailed Report](screenshots/Employee%20Transfer%20%26%20Financial%20Analysis_Detailed%20Report.png)
 
 ## Business objective
 
@@ -53,7 +53,7 @@ The Power BI model includes the following tables:
 
 The model uses a many-to-many relationship between `Form` and `FBT Table`, with single-direction cross-filtering from `Form` to `FBT Table`. The `Date table` is connected to `Form` through a one-to-many relationship.
 
-See [Data model documentation](Documentation/data-model.md) for further details and modelling considerations.
+See [Data model documentation](documentation/data-model.md) for further details and modelling considerations.
 
 ## Example analysis
 
