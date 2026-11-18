@@ -6,9 +6,10 @@ A Power BI portfolio project exploring employee transfers, travel-related allowa
 
 ## Dashboard preview
 
-[Employee Transfers & Financial Analysis dashboard](Screenshots/Employee Tranfer & Financial Analysis.png)
 
-[Employee Transfers & Financial Analysis dashboard_Detailed Report](Screenshots/Employee Tranfer & Financial Analysis_Detailed Report.png)
+[Employee Transfers & Financial Analysis](https://github.com/augusto-terra10/employee-transfers-financial-analysis/raw/main/Screenshots/Employee%20Tranfer%20%26%20Financial%20Analysis.png)
+
+[Employee Transfers & Financial Analysis – Detailed Report](https://github.com/augusto-terra10/employee-transfers-financial-analysis/raw/main/Screenshots/Employee%20Tranfer%20%26%20Financial%20Analysis_Detailed%20Report.png)
 
 ## Business objective
 
