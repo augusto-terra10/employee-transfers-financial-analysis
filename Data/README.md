@@ -6,5 +6,3 @@
 - `FBT Table`: 36 summary records, 9 fields
 - `Data Dictionary`: field inventory and sample values
 - `Data Quality`: descriptive checks
-
-Original values were preserved. The workbook was consolidated and formatted; it was not cleaned, deduplicated or recalculated.
