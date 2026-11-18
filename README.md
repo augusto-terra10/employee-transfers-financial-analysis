@@ -66,8 +66,6 @@ Key reporting metrics include:
 - FBT Payable
 - FBT Paid Over
 
-The measures catalogue is available in [Measures documentation](documentation/measures-catalog.md).
-
 ## Tools and techniques
 
 - Microsoft Power BI
