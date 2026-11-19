@@ -41,7 +41,6 @@ The workbook contains the following worksheets:
 
 - `Form` – employee transfer records and related operational information (1,414 rows).
 - `FBT Table` – aggregated allowance and FBT information (36 rows).
-- `Data Dictionary` – descriptions of the source fields.
 - `Data Quality` – summary of basic data quality checks.
 
 The Power BI model includes the following tables:
